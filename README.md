@@ -40,5 +40,3 @@ I'm a developer based in West Bengal, India, with a strong focus on **Artificial
 *   **LinkedIn:** [Trishit Roy](https://www.linkedin.com/in/trishit-roy-1a926834b)
 *   **Email:** trishitroy524@gmail.com
 *   **Phone:** +91 7439037735
-
-*(Note: If you receive unwanted spam calls, you can always remove your phone number later and just leave your LinkedIn and Email!)*
